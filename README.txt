@@ -1,0 +1,1 @@
+Run `npm install` then `npx vite`. Open http://localhost:5173 to see the app.
